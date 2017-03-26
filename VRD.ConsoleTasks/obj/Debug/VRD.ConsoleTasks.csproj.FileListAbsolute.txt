@@ -1,0 +1,8 @@
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\bin\Debug\VRD.ConsoleTasks.exe.config
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\bin\Debug\VRD.ConsoleTasks.exe
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\bin\Debug\VRD.ConsoleTasks.pdb
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\bin\Debug\HRMTS.Common.dll
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\bin\Debug\HRMTS.Common.pdb
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.csprojResolveAssemblyReference.cache
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.exe
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.pdb

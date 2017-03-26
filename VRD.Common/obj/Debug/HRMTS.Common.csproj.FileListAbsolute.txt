@@ -1,0 +1,4 @@
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\HRMTS.ConsoleTask\HRMTS.Common\bin\Debug\HRMTS.Common.dll
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\HRMTS.ConsoleTask\HRMTS.Common\bin\Debug\HRMTS.Common.pdb
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\HRMTS.ConsoleTask\HRMTS.Common\obj\Debug\HRMTS.Common.dll
+c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\HRMTS.ConsoleTask\HRMTS.Common\obj\Debug\HRMTS.Common.pdb
