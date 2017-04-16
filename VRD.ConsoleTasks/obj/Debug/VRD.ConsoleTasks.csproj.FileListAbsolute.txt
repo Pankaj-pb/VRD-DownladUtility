@@ -6,3 +6,11 @@ c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VR
 c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.csprojResolveAssemblyReference.cache
 c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.exe
 c:\users\pankaj.kakkar\documents\visual studio 2015\Projects\VRD.ConsoleTasks\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.pdb
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\bin\Debug\VRD.ConsoleTasks.exe.config
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\bin\Debug\VRD.ConsoleTasks.exe
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\bin\Debug\VRD.ConsoleTasks.pdb
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\bin\Debug\HRMTS.Common.dll
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\bin\Debug\HRMTS.Common.pdb
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.csprojResolveAssemblyReference.cache
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.exe
+D:\VRD\VRD-DownladUtility\VRD.ConsoleTasks\obj\Debug\VRD.ConsoleTasks.pdb

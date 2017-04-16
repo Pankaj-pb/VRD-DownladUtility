@@ -7,6 +7,9 @@ using VRD.Janitor;
 
 namespace VRD.ConsoleTasks.FileDownloader
 {
+    /// <summary>
+    /// Janitor Application
+    /// </summary>
     public class JanitorApplication
     {
         /// <summary>

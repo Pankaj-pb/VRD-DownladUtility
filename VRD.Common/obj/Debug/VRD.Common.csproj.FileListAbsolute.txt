@@ -11,3 +11,8 @@ C:\Users\pankaj.kakkar\Documents\Visual Studio 2015\Projects\VRD.ConsoleTasks\VR
 C:\Users\pankaj.kakkar\Documents\Visual Studio 2015\Projects\VRD.ConsoleTasks\VRD.Common\bin\Debug\HRMTS.Common.pdb
 C:\Users\pankaj.kakkar\Documents\Visual Studio 2015\Projects\VRD.ConsoleTasks\VRD.Common\obj\Debug\HRMTS.Common.dll
 C:\Users\pankaj.kakkar\Documents\Visual Studio 2015\Projects\VRD.ConsoleTasks\VRD.Common\obj\Debug\HRMTS.Common.pdb
+D:\VRD\VRD-DownladUtility\VRD.Common\bin\Debug\HRMTS.Common.dll
+D:\VRD\VRD-DownladUtility\VRD.Common\bin\Debug\HRMTS.Common.pdb
+D:\VRD\VRD-DownladUtility\VRD.Common\obj\Debug\VRD.Common.csprojResolveAssemblyReference.cache
+D:\VRD\VRD-DownladUtility\VRD.Common\obj\Debug\HRMTS.Common.dll
+D:\VRD\VRD-DownladUtility\VRD.Common\obj\Debug\HRMTS.Common.pdb
